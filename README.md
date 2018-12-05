@@ -1,3 +1,3 @@
 # Tower-defense
 
-Just a simple csharp script.
+Just a simple csharp program.
